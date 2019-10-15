@@ -13,9 +13,9 @@ use OpenSDK\Vip\Requests\Union\RefundOrderRequest;
 class UnionRefundOrderTest
 {
 
-    private $appKey = 'd3a8f5cb';
+    private $appKey = 'd3a8f5c';
 
-    private $appSecret = '9F830DEDC41319621C63D8D72FD85C1F';
+    private $appSecret = '9F830DEDC41319621C63D8D72FD85C1';
 
     public function __invoke()
     {
