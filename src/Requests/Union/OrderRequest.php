@@ -2,7 +2,7 @@
 /**
  * 获取订单信息列表
  *
- * @link: null
+ * @link: http://vop.vip.com/apicenter/method?serviceName=com.vip.adp.api.open.service.UnionOrderService-1.0.0&methodName=orderList
  *
  * @brief: 获取订单信息列表. 注：（1）订单归属人为开发者，（2）默认一分钟最多访问60次
  *
