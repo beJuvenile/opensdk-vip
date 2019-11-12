@@ -48,7 +48,7 @@ class ProductQueryWithOauthRequest implements Request
 
     private $keyword;   //
 
-    private $fieldname; // 排序字段：支持price和discount
+    private $fieldName; // 排序字段：支持price和discount
 
     private $order;     // 排序：0-正序，1-逆序
 
@@ -71,8 +71,8 @@ class ProductQueryWithOauthRequest implements Request
 
     public function setFieldName($val)
     {
-        $this->fieldname = (string)$val;
-        $this->apiParams['fieldname'] = (string)$val;
+        $this->fieldName = (string)$val;
+        $this->apiParams['fieldName'] = (string)$val;
     }
 
     public function setOrder($val)
