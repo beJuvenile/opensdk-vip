@@ -22,7 +22,7 @@ class Client
      *
      * @var string
      */
-    public $gateway = 'https://gw.vipapis.com';
+    public $gateway = 'https://vop.vipapis.com';
 
     /**
      * AppKey
